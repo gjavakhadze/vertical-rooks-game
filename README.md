@@ -1,3 +1,3 @@
 # Vertical Rooks
 
-https://ja0.github.io/vertical-rooks-game/index.html
+[Click to play](https://gjavakhadze.github.io/vertical-rooks-game)
