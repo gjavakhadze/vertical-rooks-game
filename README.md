@@ -2,8 +2,6 @@
 
 Vertical Rooks is a two-player, turn-based strategy board game built with the Phaser game engine. One player competes against an AI, with the goal of trapping the opponent's pieces.
 
-[**Click here to play the game!**](https://gjavakhadze.github.io/vertical-rooks-game)
-
 ![Green Rook](https://gjavakhadze.github.io/vertical-rooks-game/assets/greenRook.png)
 
 ## How to Play
